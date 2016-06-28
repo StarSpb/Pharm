@@ -1,0 +1,10 @@
+D:\Work\Pharm\Pharm\bin\Debug\Pharm.exe.config
+D:\Work\Pharm\Pharm\bin\Debug\PharmDB.mdf
+D:\Work\Pharm\Pharm\bin\Debug\PharmDB_log.ldf
+D:\Work\Pharm\Pharm\bin\Debug\Pharm.exe
+D:\Work\Pharm\Pharm\bin\Debug\Pharm.pdb
+D:\Work\Pharm\Pharm\obj\x86\Debug\Pharm.Properties.Resources.resources
+D:\Work\Pharm\Pharm\obj\x86\Debug\Pharm.csproj.GenerateResource.Cache
+D:\Work\Pharm\Pharm\obj\x86\Debug\Pharm.exe
+D:\Work\Pharm\Pharm\obj\x86\Debug\Pharm.pdb
+D:\Work\Pharm\Pharm\obj\x86\Debug\Pharm.mainForm.resources
